@@ -77,34 +77,12 @@ Beta Testing` · `QA` · `Bug Reporting` · `Discord`
 💻 New tools, new workflows, new mistakes
 
 
-```
-
-
-## 🧠 A Little More About Me
-
-
-I don't really like staying inside one box.
-
-I like understanding **how things work**, figuring out **why they don't work**,
-documenting **how someone else can use them**, testing them until something breaks,
- and then occasionally turning the whole experience into a video.
-
-Engineering gives me the systems.
-
-Writing gives me the words.
-
-Testing gives me the problems.
-
-Gaming gives me the chaos.
-
-Creativity gives me somewhere to put it all.
-
-
----
-
 # 👋 And Again...
-**Hi, I'm Charan.**
+
+*Hi, I'm Charan.*
+
 Nice to meet you.
-**At your service. ⚡**
 
 
+
+*At your service. ⚡*
