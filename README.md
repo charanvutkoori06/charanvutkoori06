@@ -76,6 +76,7 @@ Beta Testing` · `QA` · `Bug Reporting` · `Discord`
 🎨 Creative Technology
 💻 New tools, new workflows, new mistakes
 ```
+
 ## 🧠 A Little More About Me
 
 I don't really like staying inside one box.
@@ -94,8 +95,15 @@ Gaming gives me the chaos.
 
 Creativity gives me somewhere to put it all.
 
+
 ---
 # 👋 And Again...
 **Hi, I'm Charan.**
 Nice to meet you.
 **At your service. ⚡**
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=charanvutkoori06&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charanvutkoori06&layout=compact&theme=dark" alt="Top Languages" />
+</div>
