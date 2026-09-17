@@ -2,9 +2,9 @@
 
 ### ⚡ Electrical Engineer · ✍️ Technical Writer · 🎮 Gamer · 🎬 Creator · 🧪 Tester
 
-I'm a B.Tech graduate in **Electrical & Electronics Engineering**, and I work with an almost unreasonable amount of stuff.
+I'm a B.Tech graduate in **Electrical & Electronics Engineering**, and I work with an almost unreasonable amount of stuff
 
-One day, I'm an electrical engineer — making schematics, fighting with circuits, turning **2D drawings into 3D CAD models**, and trying to convince simulations to behave.
+I'm an electrical engineer — making schematics, fighting with circuits, turning **2D drawings into 3D CAD models**, and trying to convince simulations to behave.
 
 The next day, I'm a **technical writer** — turning complicated things into documentation people can actually understand.
 
@@ -13,19 +13,15 @@ And when night falls...
 🎮 Gaming.
 🧪 Beta testing.
 🐛 Bug hunting.
-💬 Discord.
 ✍️ More writing.
 😂 Occasionally questioning my life choices.
 
-Then, after hours of gaming, my sweaty hands somehow end up on a video editor.
-
-And **that's where the real chaos begins.** 🎬
-
+Then,my sweaty hands somehow end up on a video editor.
 I'm still learning the craft — editing videos, experimenting with ideas, chasing inspiration, adapting to trends, and occasionally doom-scrolling for *"research."*
 
 ---
 
-## 🧩 The Many Hats I Wear
+## 🧩 The Many Hats I Wear what may you find here 
 
 | ⚡ Engineering      | ✍️ Documentation        | 🎮 Testing & Gaming       | 🎬 Creative         |
 | ------------------ | ----------------------- | ------------------------- | ------------------- |
@@ -45,44 +41,9 @@ I'm building the skill from the ground up — one edit, one mistake and one ridi
 
 ---
 
-## 🛠️ My Toolbox
-
-### ⚡ Engineering
-
-`MATLAB` · `Simulink` · `KiCad` · `Onshape`
-
-### 💻 Technical / Academic
-
-`LaTeX` · `Overleaf`
-
-### 🎨 Creative
-
-Adobe` · `CapCut` · `Blender`
-
-### 🧪 Testing & Communities
-
-Beta Testing` · `QA` · `Bug Reporting` · `Discord`
-
----
-
-## 🌱 Currently Exploring
-
-⚡ Electrical Engineering
-✍️ Technical Writing
-📐 CAD & 3D Design
-🧪 Software / Game QA
-🎮 Game Testing
-🎬 Video Editing
-🎨 Creative Technology
-💻 New tools, new workflows, new mistakes
-
-
 # 👋 And Again...
 
 *Hi, I'm Charan.*
 
 Nice to meet you.
 
-
-
-*At your service. ⚡*
