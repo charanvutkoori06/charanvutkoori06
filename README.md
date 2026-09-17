@@ -80,7 +80,9 @@ Beta Testing` · `QA` · `Bug Reporting` · `Discord`
 
 I don't really like staying inside one box.
 
-I like understanding **how things work**, figuring out **why they don't work**, documenting **how someone else can use them**, testing them until something breaks, and then occasionally turning the whole experience into a video.
+I like understanding **how things work**, figuring out **why they don't work**,
+documenting **how someone else can use them**, testing them until something breaks,
+ and then occasionally turning the whole experience into a video.
 
 Engineering gives me the systems.
 
