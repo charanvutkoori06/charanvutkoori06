@@ -1,3 +1,7 @@
+<img width="1050" height="250" alt="Bruno Pixels 2182" src="https://github.com/user-attachments/assets/f5015664-7a18-4c52-bd57-0034590dca67" />
+
+
+
 # 👋 Hi, I'm Charan
 
 ### ⚡ Electrical Engineer · ✍️ Technical Writer · 🎮 Gamer · 🎬 Creator · 🧪 Tester
