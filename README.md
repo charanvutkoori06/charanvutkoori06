@@ -21,23 +21,14 @@ I'm still learning the craft — editing videos, experimenting with ideas, chasi
 
 ---
 
-## 🧩 The Many Hats I Wear what may you find here 
-
-| ⚡ Engineering      | ✍️ Documentation        | 🎮 Testing & Gaming       | 🎬 Creative         |
-| ------------------ | ----------------------- | ------------------------- | ------------------- |
-| Electrical systems | How-to guides           | Beta testing              | Video editing       |
-| Schematics         | Instructions            | QA / bug reports          | Content creation    |
-| 2D → 3D CAD        | SOPs                    | Game reviews              | Trend adaptation    |
-| Simulation         | Safety guides           | Discord communities       | Visual storytelling |
-| System design      | Technical documentation | Finding things that break | Experimenting       |
-
----
-
 I don't pretend to know everything here.
 
 I'm building the skill from the ground up — one edit, one mistake and one ridiculous idea at a time.
 
-> *Doom scrolling isn't procrastination if you're collecting references... right?* 😭
+ *Doom scrolling isn't procrastination if you're collecting references... right?* 😭
+
+<img width="125" height="125" alt="gif" src="https://github.com/user-attachments/assets/1059c8d3-64b9-4ceb-a6c7-0e12ed83f451" />
+
 
 ---
 
